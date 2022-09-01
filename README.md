@@ -1,4 +1,5 @@
-## Hi there，I'm MuddyPuddless. 👋 ![Profile View Counter](https://komarev.com/ghpvc/?username=MuddyPuddlesss)
+## 👋  Hi there，I'm MuddyPuddless!  ![Profile View Counter](https://komarev.com/ghpvc/?username=MuddyPuddlesss&style=for-the-badge)
+
 
 - 🔭 I’m currently working on Bytedance.
 - :email: Reach me at [@Email](mailto:shallow_wow@163.com).
