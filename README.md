@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="40" height="66" src="https://raw.githubusercontent.com/MuddyPuddlesss/MuddyPuddlesss/master/watermelon.jepg">
+</p>
+
 ## 👋  Hi there，I'm MuddyPuddless!  ![Profile View Counter](https://komarev.com/ghpvc/?username=MuddyPuddlesss&style=for-the-badge)
 
 
