@@ -1,6 +1,8 @@
-![](https://github.com/MuddyPuddlesss/MuddyPuddlesss/blob/master/header_.png)
+## Hi there，I'm MuddyPuddless. 👋 ![Profile View Counter](https://komarev.com/ghpvc/?username=MuddyPuddlesss)
 
-### Hi there，I'm MuddyPuddless 👋
+- 🔭 I’m currently working on Bytedance.
+- :email: Reach me at [@Email](mailto:shallow_wow@163.com).
+- :house: [Profile]() (WIP)
 
 **Languages:**  
 
@@ -11,7 +13,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 ![MuddyPuddlesss's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuddyPuddlesss&count_private=true&show_icons=true&bg_color=320,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392&include_all_commits=true)
-
 
 
 <!--
