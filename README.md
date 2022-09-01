@@ -7,8 +7,8 @@
 
 
 - 🔭 I’m currently working on Bytedance.
-- :email: Reach me at [@Email](mailto:shallow_wow@163.com).
-- :house: [Profile]() (WIP)
+- ✉️ Reach me at [@Email](mailto:shallow_wow@163.com).
+- 🔗 [Profile]() (WIP) | [Floral-Shirt UI]() (WIP)
 
 **Languages:**  
 
