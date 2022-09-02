@@ -5,14 +5,14 @@
 
 # 👋  Hi there，I'm 0xdddd!
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=MuddyPuddlesss&style=for-the-badge)
+![Profile View Counter](https://komarev.com/ghpvc/?username=MuddyPuddlesss&style=for-the-badge) 
 
 </div>
 
 **Introduction:**
 - 🔭  I’m currently working on Bytedance.
 - ✉️  Reach me at [@Email](mailto:shallow_wow@163.com).
-- 🔗  [Personal Website]() (WIP) | [Floral-Shirt UI]() (WIP)
+- 🔗  [Personal Website]() (WIP) | [Floral-Shirt UI]() (WIP) | [Blog](https://muddypuddlesss.github.io/0xddd-s-Blog/)
 
 **Skill:**
 <p>
