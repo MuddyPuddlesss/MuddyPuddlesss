@@ -3,18 +3,20 @@
 <img width="100" height="100" src="https://github.com/MuddyPuddlesss/MuddyPuddlesss/blob/main/profile.png">
 <!-- <img width="100" height="100" src="https://github.com/MuddyPuddlesss/MuddyPuddlesss/blob/main/my.png"> -->
 
-# 👋  Hi there，I'm shallow_wow!
+# 👋 Hi there，I'm shallow_wow!
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=MuddyPuddlesss&style=for-the-badge) 
+<!-- ![Profile View Counter](https://komarev.com/ghpvc/?username=MuddyPuddlesss&style=for-the-badge) -->
 
 </div>
 
 **Introduction:**
-- 🔭  I’m currently working on Bytedance.
-- ✉️  Reach me at [@Email](mailto:shallow_wow@163.com).
-- 🔗  [Personal Website]() (WIP) | [Floral-Shirt UI]() (WIP) | [Blog](https://muddypuddlesss.github.io/0xddd-s-Blog/)
 
-**Skill:**
+- 🔭 China, Beijing.
+- ✉️ Reach me at [@Email](mailto:shallow_wow@163.com).
+- 🔗 [Personal Website](xiejunjie.net) | [Toy Element](shallow-wow.fun)
+
+<!-- **Skill:**
+
 <p>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white)
@@ -40,22 +42,19 @@
 
 </p>
 
-**Languages:**  
+**Languages:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> -->
 
 <!-- ![MuddyPuddlesss's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuddyPuddlesss&count_private=true&show_icons=true&bg_color=320,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392&include_all_commits=true) -->
 
+<!-- **Repository:**
 
-
-**Repository:**
-
-![MuddyPuddlesss's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuddyPuddlesss&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
+![MuddyPuddlesss's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuddyPuddlesss&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
 
 <!--
 
