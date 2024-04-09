@@ -13,7 +13,7 @@
 
 - 🔭 China, Beijing.
 - ✉️ Reach me at [@Email](mailto:shallow_wow@163.com).
-- 🔗 [Personal Website](http://xiejunjie.net) | [Toy Element](http://shallow-wow.fun)
+<!-- - 🔗 [Personal Website](http://xiejunjie.net) | [Toy Element](http://shallow-wow.fun) -->
 
 <!-- **Skill:**
 
