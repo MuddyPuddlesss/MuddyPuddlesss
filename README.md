@@ -1,18 +1,18 @@
 <div align=center>
 
-<img width="100" height="100" src="https://github.com/MuddyPuddlesss/MuddyPuddlesss/blob/main/profile.png">
+<!-- <img width="100" height="100" src="https://github.com/MuddyPuddlesss/MuddyPuddlesss/blob/main/profile.png"> -->
 <!-- <img width="100" height="100" src="https://github.com/MuddyPuddlesss/MuddyPuddlesss/blob/main/my.png"> -->
 
-# 👋 Hi there，I'm shallow_wow!
-
+<p>👋 Hi there!</p>
+🔭 China, Beijing.
 <!-- ![Profile View Counter](https://komarev.com/ghpvc/?username=MuddyPuddlesss&style=for-the-badge) -->
 
 </div>
 
-**Introduction:**
+<!-- **Introduction:** -->
 
-- 🔭 China, Beijing.
-- ✉️ Reach me at [@Email](mailto:shallow_wow@163.com).
+<!-- - 🔭 China, Beijing. -->
+<!-- - ✉️ Reach me at [@Email](mailto:shallow_wow@163.com). -->
 <!-- - 🔗 [Personal Website](http://xiejunjie.net) | [Toy Element](http://shallow-wow.fun) -->
 
 <!-- **Skill:**
