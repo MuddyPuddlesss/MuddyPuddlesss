@@ -4,7 +4,9 @@
 <!-- <img width="100" height="100" src="https://github.com/MuddyPuddlesss/MuddyPuddlesss/blob/main/my.png"> -->
 
 <p>👋 Hi there!</p>
-🔭 China, Beijing.
+<p>🔭 China, Beijing.<p>
+
+✉️ Reach me at [@Email](mailto:shallow_wow@163.com).
 <!-- ![Profile View Counter](https://komarev.com/ghpvc/?username=MuddyPuddlesss&style=for-the-badge) -->
 
 </div>
